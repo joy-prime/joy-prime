@@ -101,4 +101,4 @@ switchable runtime checks and automatic [generative testing](https://nofluffjust
     representation of a type) belonging to that class as a first argument. Constructors are invoked
     by client code to create instances of the class, and also are used for generative testing.  
     
-For more about the Joy' type system, see [joy-types](https://github.com/joy-prime/joy-types).
+For more about the Joy' type system, see [joy-types-clojure](https://github.com/joy-prime/joy-types-clojure).
