@@ -1,4 +1,6 @@
-# The Joy Prime Programming Language (Vaporware)
+# The Joy Prime Programming Language
+
+**PAUSED INDEFINITELY -- instead see joy-data-kotlin**
 
 Joy Prime is an idea for a new language based on Clojure.
 The "Prime" suffix honors the original [Joy language](https://en.wikipedia.org/wiki/Joy_(programming_language))
